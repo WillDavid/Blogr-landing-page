@@ -1,0 +1,26 @@
+.styleNavBar{
+    background-color: #09090b;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50px;
+    width: 100vw;
+}
+
+.styleNavBar h1 {
+    color: #fff;
+}
+
+ul li {
+    display: inline-block;
+
+    margin-right: 30px;
+}
+
+ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+
